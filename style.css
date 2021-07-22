@@ -26,3 +26,7 @@ body {
     padding: 20px;
     box-shadow: 10px 15px 5px 10px;
 }
+
+td.course-name {
+    text-align: initial;
+}
