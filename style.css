@@ -44,3 +44,10 @@ caption {
     box-shadow: 5px 6px #b0c0a4;
 }
 
+.caption-top {
+    caption-side: top;
+}
+
+.caption-bottom {
+    caption-side: bottom;
+}
