@@ -5,3 +5,14 @@ body {
     margin-left: 400px;
 }
 
+.table-one {
+    border-collapse: separate;
+    border-spacing: 10px 10px;
+    background: khaki;
+    border: 5px solid tomato;
+    border-style: inset;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 10px 15px 5px 10px;
+}
+
