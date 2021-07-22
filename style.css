@@ -30,3 +30,8 @@ body {
 td.course-name {
     text-align: initial;
 }
+
+td {
+    text-align: center;
+}
+
